@@ -29,6 +29,10 @@
     <ClInclude Include="inc\FlushQ.h" />
     <ClInclude Include="inc\SLL.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="LICENSE" />
+    <None Include="README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{0E02A125-F153-45EC-ACB0-CA5CC874D911}</ProjectGuid>
